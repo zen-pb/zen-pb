@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#** with help from [thecsharpacademy](https://www.thecsharpacademy.com/).
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -12,7 +12,7 @@
 
 <!--
 **zen-pb/zen-pb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="left">Connect with me:</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
