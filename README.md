@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edizen P. Buguina</h1>
 <h3 align="center">A 2nd Year BSCS Student, aspiring to be a Software Developer.</h3>
 
-I don't have a chosen specialization yet and am overwhelmed due to the fact that there are a lot of things to choose from, but I am trying to enjoy the process and hopefully find a specialization to my liking.
+&emsp;I don't have a chosen specialization yet and am overwhelmed due to the fact that there are a lot of things to choose from, but I am trying to enjoy the process and hopefully find a specialization to my liking.
 
 
 <p align="left">
